@@ -21,4 +21,25 @@ You can click the Preview link to take a look at your changes.
   <code><img title="Nodejs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawsondaniel&show_icons=true)
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Emmanuel-umeh/Instagram_clone" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Instagram_clone&theme=gotham"></a><a align="right" href="https://github.com/Emmanuel-umeh/lyricfinder" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=lyricfinder&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Emmanuel-umeh/health_app_ui" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=health_app_ui&theme=gotham"></a>
+  
+  <a align="right" href="https://github.com/Emmanuel-umeh/ElfCoin" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Elfcoin&theme=gotham"></a> -->
+  <!-- 
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
+</p> -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href="https://github.com/emmanuel-umeh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
