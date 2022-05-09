@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Daniel Lawson, i am a , FullStack Web 
+  Hi, I'm Daniel Lawson, i am a , FullStack Web Developer
   <br>
   💻 Simply addicted to code
   
