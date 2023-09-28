@@ -7,26 +7,19 @@
   <code><a href="https://www.instagram.com/lawbl_aze/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  👋 Hey there! I'm Daniel Lawson, a passionate Software Developer 💻 specializing in web and mobile development. I'm all about crafting dynamic and user-centric experiences using the power of code.
-<br>
-🌐 My playground consists of JavaScript and TypeScript, where I build interactive web applications that seamlessly blend creativity and functionality. Whether it's creating responsive web interfaces with React ⚛️, fine-tuning server-side logic with Node.js 🚀, or diving deep into the world of TypeScript for type-safe awesomeness, I thrive on pushing the web's boundaries.
-<br>
-📱 On the mobile front, I'm a proponent of versatile app development. You'll often find me harnessing the potential of JavaScript and frameworks like React Native 📲 to bring apps to life on both iOS and Android platforms.
-<br>
-⚙️ Additionally, I wield PHP with finesse to create robust server-side solutions, powering web applications with dynamic content and seamless data management.
-<br>
-🌟 When I'm not weaving lines of code, I'm exploring the latest trends in web and mobile tech, contributing to open-source projects, and sharing my knowledge with the developer community.
-<br>
-Let's connect and bring some tech magic to the digital world together! 🚀🤝
-
-  <br>
-  💻 Simply addicted to code
-  
-  <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
-  <br>
-  📫 How to reach me: <a href="mailto: Lawblaze4@gmail.com">Lawblaze4@gmail.com</a>
-</p>
+ <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); padding: 20px; max-width: 600px; margin: 0 auto;">
+        <h1 style="color: #333;">👋 Hey there!</h1>
+        <p style="color: #666;">I'm <strong>Daniel Lawson</strong>, a passionate Software Developer 💻, specializing in web and mobile development. I thrive on crafting dynamic and user-centric experiences using the power of code.</p>
+        <h2 style="color: #333;">🌐 Web Development</h2>
+        <p style="color: #666;">My playground consists of <strong>JavaScript</strong> and <strong>TypeScript</strong>, where I build interactive web applications that seamlessly blend creativity and functionality. Whether it's creating responsive web interfaces with <strong>React</strong> ⚛️, fine-tuning server-side logic with <strong>Node.js</strong> 🚀, or diving deep into the world of <strong>TypeScript</strong> for type-safe awesomeness, I love pushing the web's boundaries.</p>
+        <h2 style="color: #333;">📱 Mobile Development</h2>
+        <p style="color: #666;">On the mobile front, I'm a proponent of versatile app development. You'll often find me harnessing the potential of <strong>JavaScript</strong> and frameworks like <strong>React Native</strong> 📲 to bring apps to life on both iOS and Android platforms.</p>
+        <h2 style="color: #333;">⚙️ Server-Side Magic</h2>
+        <p style="color: #666;">Additionally, I wield <strong>PHP</strong> with finesse to create robust server-side solutions, powering web applications with dynamic content and seamless data management.</p>
+        <h2 style="color: #333;">🌟 Beyond Coding</h2>
+        <p style="color: #666;">When I'm not weaving lines of code, I'm exploring the latest trends in web and mobile tech, contributing to open-source projects, and sharing my knowledge with the developer community.</p>
+        <p style="color: #666;">Let's connect and bring some tech magic to the digital world together! 🚀🤝</p>
+    </div>
 
 <hr>
 
