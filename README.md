@@ -8,7 +8,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Daniel Lawson, i am a , FullStack Web Developer
+  👋 Hey there! I'm Daniel Lawson, a passionate Software Developer 💻 specializing in web and mobile development. I'm all about crafting dynamic and user-centric experiences using the power of code.
+<br>
+🌐 My playground consists of JavaScript and TypeScript, where I build interactive web applications that seamlessly blend creativity and functionality. Whether it's creating responsive web interfaces with React ⚛️, fine-tuning server-side logic with Node.js 🚀, or diving deep into the world of TypeScript for type-safe awesomeness, I thrive on pushing the web's boundaries.
+<br>
+📱 On the mobile front, I'm a proponent of versatile app development. You'll often find me harnessing the potential of JavaScript and frameworks like React Native 📲 to bring apps to life on both iOS and Android platforms.
+<br>
+⚙️ Additionally, I wield PHP with finesse to create robust server-side solutions, powering web applications with dynamic content and seamless data management.
+<br>
+🌟 When I'm not weaving lines of code, I'm exploring the latest trends in web and mobile tech, contributing to open-source projects, and sharing my knowledge with the developer community.
+<br>
+Let's connect and bring some tech magic to the digital world together! 🚀🤝
+
   <br>
   💻 Simply addicted to code
   
